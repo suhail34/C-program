@@ -1,0 +1,10 @@
+{
+    "code-runner.clearPreviousOutput": true,
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "cstdio": "cpp",
+        "stdio.h": "c",
+        "conio.h": "c",
+        "dos.h": "c"
+    }
+}
